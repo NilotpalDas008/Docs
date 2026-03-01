@@ -65,8 +65,8 @@ Designed for focus, clarity, and visual excellence.
 
 ### Frontend
 
-- Next.js 16 (Turbopack)
-- React 19
+- Next.js (Turbopack)
+- React
 - Socket.IO Client
 - Axios
 
