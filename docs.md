@@ -56,7 +56,7 @@ A sophisticated telemetry system captures and categorizes every interaction.
 
 Designed for focus, clarity, and visual excellence.
 
-- Vibrant UI: Confirm dark mode with glassmorphism & modern typography
+- Vibrant UI: Dark-mode theme with glassmorphism & modern typography
 - Custom Components: Premium confirmation modals & dropdowns
 - Responsive Navigation: Collapsible sidebar with smooth micro-animations
 - CSV Exports: Export session & per-question data
